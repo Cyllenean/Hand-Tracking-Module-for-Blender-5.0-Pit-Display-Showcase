@@ -29,7 +29,8 @@ The model in the scene is our STEM Racing car, remeshed using QRemeshify for a c
    cd test-1
 
 2. Install Python dependencies:
-pip install -r requirements.txt
+    ```bash
+    pip install -r requirements.txt
 
 3. Open the Blender file
 
@@ -38,8 +39,9 @@ pip install -r requirements.txt
 5. Run the Blender script (Alt+P or click Run Script).
 
 6. In a separate terminal, run:
-cd "your_file_path"
-python main.py
+    ```bash
+    cd "your_file_path"
+    python main.py
 
 7. Make sure your webcam shutter is off/not covered.
 
