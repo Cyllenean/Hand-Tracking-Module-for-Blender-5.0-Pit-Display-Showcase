@@ -9,20 +9,21 @@ The model in the scene is our STEM Racing car, remeshed using QRemeshify for a c
 - **Blender 5.0+ Compatible** — Uses modern Blender Python APIs (timer-based updates instead of blocking loops)
 - **Real-time Hand Tracking** — MediaPipe detects hand landmarks through a webcam
 - **Gesture Controls** — Scale, rotate, and pan the 3D model with simple hand poses
-- **Enhanced Pan Sensitivity** — Object moves noticeably with small hand movements
+- **Enhanced Pan Sensitivity** — Object moves noticeably with small hand movements (though still buggy)
 - **Scale Preservation** — Scale value is preserved across rotation and panning
 - **Configurable Sensitivity** — Easy-to-tweak values for scale, rotate, and pan
 
 ## Requirements
 
-- Blender 5.0 or newer
+- Blender 2.8 or newer (only Blender 5.0 + has been tested)
 - Python 3.10–3.12
 - Webcam
 - Python packages: `opencv-python`, `mediapipe`, `numpy`
+- Current version only runs on Windows 10/11
 
 ## Installation
 
-1. Clone this repository:
+1. Clone this repository or Download the files manually:
    ```bash
    git clone https://github.com/Cyllenean/test-1.git
    cd test-1
@@ -101,10 +102,9 @@ Fix: Pinned MediaPipe to 0.10.8 in requirements.txt
 
 This project is a fork of IronHands by akgupta1337, which provided the original hand-tracking framework, gesture mapping, and Blender integration. The original project is licensed under the MIT License.
 
-The 3D car model was remeshed using QRemeshify.
+The 3D car model included was remeshed using QRemeshify.
 
 
 ## License
 
 MIT License — see LICENSE for details.
-
