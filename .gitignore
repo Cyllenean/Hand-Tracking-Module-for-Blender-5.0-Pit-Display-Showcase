@@ -4,3 +4,6 @@ ironhands_env/
 .venv/
 venv/
 *.blend1
+src/scale.txt
+src/rotate.txt
+src/pan.txt
