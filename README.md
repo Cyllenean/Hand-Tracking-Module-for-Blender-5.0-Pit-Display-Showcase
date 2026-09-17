@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Blender 5.0+ HandTracking Module
 
 A customized fork of the [IronHands](https://github.com/akgupta1337/IronHands) project by [akgupta1337](https://github.com/akgupta1337). This version adds support for newer Blender versions and improved gesture controls.
@@ -37,6 +36,7 @@ pip install -r requirements.txt
 cd src
 python main.py
 
+7. Make sure your webcam shutter is off.
 
 Credits
 Based on the original IronHands project by akgupta1337, licensed under the MIT License.
@@ -44,5 +44,4 @@ Based on the original IronHands project by akgupta1337, licensed under the MIT L
 License
 MIT License — see LICENSE for details.
 =======
--testing first
->>>>>>> 1711aa06340393271eb04a2e538c4c73b3472671
+
