@@ -19,7 +19,7 @@ The model in the scene is our STEM Racing car, remeshed using QRemeshify for a c
 - Python 3.10–3.12
 - Webcam
 - Python packages: `opencv-python`, `mediapipe`, `numpy`
-- Current version only runs on Windows 10/11
+- Current version only natively supports Windows 10/11
 
 ## Installation
 
@@ -40,7 +40,7 @@ The model in the scene is our STEM Racing car, remeshed using QRemeshify for a c
 
 6. In a separate terminal, run:
     ```bash
-    cd "your_file_path"
+    cd 'your_file_path'
     python main.py
 
 7. Make sure your webcam shutter is off/not covered.
