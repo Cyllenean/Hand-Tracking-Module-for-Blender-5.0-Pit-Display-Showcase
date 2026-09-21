@@ -25,8 +25,8 @@ The model in the scene is our STEM Racing car, remeshed using QRemeshify for a c
 
 1. Clone this repository or Download the files manually:
    ```bash
-   git clone https://github.com/Cyllenean/test-1.git
-   cd test-1
+   git clone https://github.com/Cyllenean/Hand-Tracking-Module-for-Blender-5.0-Pit-Display-Showcase.git
+   cd Hand-Tracking-Module-for-Blender-5.0-Pit-Display-Showcase
 
 2. Install Python dependencies:
     ```bash
