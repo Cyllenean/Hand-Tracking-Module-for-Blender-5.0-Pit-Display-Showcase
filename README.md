@@ -107,20 +107,30 @@ This project is a fork of IronHands by akgupta1337, which provided the original 
 The 3D car model included was remeshed using QRemeshify.
 
 
+---
+
 ## License
 
-Released under the MIT License. See LICENSE for details.
+Released under the **MIT License**. See `LICENSE` for details.
 
 You are free to use, modify and redistribute this tool, including for commercial purposes, provided the copyright notice and licence text are retained. Attribution is appreciated but not required.
 
+---
 
-## Contacts
+## Contact
 
-Cyllenean
+**Team Cyllenean**
+Australian International School Hong Kong
+3A Norfolk Road, Kowloon Tong, Kowloon, Hong Kong
 
-Address: Australian International School Hong Kong 3A Norfolk Road, Kowloon Tong, Kowloon, Hong Kong
-Email: cyllenean.aishk@gmail.com
-Instagram: @cyllenean
-LinkedIn: Team Cyllenean
-GitHub: github.com/Cyllenean
+- Email: [cyllenean.aishk@gmail.com](mailto:cyllenean.aishk@gmail.com)
+- Instagram: [@cyllenean](https://www.instagram.com/cyllenean/)
+- LinkedIn: [Team Cyllenean](https://www.linkedin.com/in/team-cyllenean-5725653b0/)
+- GitHub: [github.com/Cyllenean](https://github.com/Cyllenean)
 
+---
+
+<p align="center">
+  <strong>Speed · Precision · Minimalism</strong><br>
+  Copyright © 2026 Cyllenean. All Rights Reserved.
+</p>
