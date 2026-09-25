@@ -1,4 +1,4 @@
-# Hand Tracking Module for Blender 5.0+ — Pit Display
+# CYLLENEAN - Hand Tracking Module for Blender 5.0+ (Pit Display)
 
 A gesture-controlled 3D object manipulator for Blender, built for our STEM Racing team's pit display showcase. Visitors can manipulate a 3D model of our car using hand gestures in front of a webcam — no keyboard or mouse needed.
 
@@ -109,4 +109,18 @@ The 3D car model included was remeshed using QRemeshify.
 
 ## License
 
-MIT License — see LICENSE for details.
+Released under the MIT License. See LICENSE for details.
+
+You are free to use, modify and redistribute this tool, including for commercial purposes, provided the copyright notice and licence text are retained. Attribution is appreciated but not required.
+
+
+## Contacts
+
+Cyllenean
+
+Address: Australian International School Hong Kong 3A Norfolk Road, Kowloon Tong, Kowloon, Hong Kong
+Email: cyllenean.aishk@gmail.com
+Instagram: @cyllenean
+LinkedIn: Team Cyllenean
+GitHub: github.com/Cyllenean
+
